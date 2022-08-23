@@ -14,7 +14,7 @@ This project analyzes the CSV file from Kaggle regarding Medical Cost Personal D
 The goal of this project is to understand which characteristics drive the cost of insurance the most and model the data to provide a reasonable estimate for insurance costs.
 
 
-# Conclusions:
+Conclusions:
 
 Based on visualizations, there are no obvious difference in insurance charges based on the sex of the patient or the region in which the patient is from. The biggest indicator for increased insurance charges is whether or not the patient smokes.
 
